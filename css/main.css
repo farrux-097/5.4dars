@@ -2,9 +2,15 @@
     background: #EEAECA;
 background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
 }
+.body.darck{
+    background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 100%, rgba(9, 9, 121, 1) 100%, rgba(0, 212, 255, 1) 100%);
+
+}
 
 
 .containers{
     max-width: 1200px;
     margin: 0 auto;
 }
+
